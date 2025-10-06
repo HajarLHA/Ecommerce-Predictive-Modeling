@@ -23,7 +23,7 @@ Each model is evaluated using **R², MAE, and RMSE**, and feature selection is a
 Ecommerce-Predictive-Modeling/
 │
 ├── 📂 notebooks/                            # Main notebooks (EDA & data preprocessing, data modeling)
-├── 📂 plots/                                # Visualization from the notebooks 
+├── 📂 plots/                                # Visualizations from the notebooks 
 ├── 📄 requirements.txt                      # Project dependencies
 ├── 📄 README.md                             # Project documentation
 └── 📂 data/                                 # Dataset folder 
@@ -41,7 +41,7 @@ The dataset contains customer information with the following features:
 - Length of Membership  
 - Yearly Amount Spent (**Target**)  
 
-> The dataset used in this project is included in the repository as `data/Clients_Ecommerce.csv`.
+> The dataset used in this project is included in the repository as '[📊 Dataset](data/ecommerce.csv)'.
 
 ---
 
