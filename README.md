@@ -70,7 +70,7 @@ The dataset contains customer information with the following features:
 |-------|----------|-----|------|
 | 🧠 MLP (GridSearch + CV) | 0.985 | 0.098 | 0.016 |
 | 🖥️ SVR (GridSearch + Feature Selection) | 0.984 | 0.093 | 0.014 |
-| 🤖 Linear Regression (Feature Selection) | 0.986 ✅ | 0.090 | 0.013 ✅ |
+| 🤖 Linear Regression (Feature Selection) | 0.986 ✅ | 0.090 ✅ | 0.013 ✅ |
 
 **Top 3 features:** `Avg. Session Length`, `Time on App`, `Length of Membership`.
 
