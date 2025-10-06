@@ -41,7 +41,7 @@ The dataset contains customer information with the following features:
 - Length of Membership  
 - Yearly Amount Spent (**Target**)  
 
-> The dataset used in this project is included in the repository as '[📊 Dataset](data/ecommerce.csv)'.
+> The dataset used in this project is included in the repository as '[📊 Dataset](data/Clients_Ecommerce.csv)'.
 
 ---
 
