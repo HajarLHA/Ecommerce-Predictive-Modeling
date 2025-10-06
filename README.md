@@ -64,7 +64,7 @@ The dataset contains customer information with the following features:
 
 ---
 
-## 📊 Benchmark Summary (Top 3 Features)
+## 📊 Benchmark Summary
 
 | Model | R² Score | MAE | RMSE |
 |-------|----------|-----|------|
