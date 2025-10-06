@@ -1,1 +1,14 @@
-requirements.txt
+# Core libraries
+numpy==2.0.2
+pandas==2.2.2
+
+# Machine Learning
+scikit-learn==1.5.1
+scikeras==0.13.0
+
+# Deep Learning
+keras==3.10.0
+
+# Visualization
+matplotlib==3.8.0
+seaborn==0.13.2
