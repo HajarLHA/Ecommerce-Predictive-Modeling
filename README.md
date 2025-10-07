@@ -1,12 +1,8 @@
 # 🛍️ Ecommerce Predictive Modeling
 
-This project focuses on building and evaluating multiple regression models to **predict yearly customer spending** based on their behavior and engagement metrics in an e-commerce platform.  
-The goal is to explore different modeling techniques, perform feature selection, and identify the best-performing model for accurate predictions.
-
----
-
 ## 📝 Project Overview
 
+This project focuses on building and evaluating multiple regression models to **predict yearly customer spending** based on their behavior and engagement metrics in an e-commerce platform.  
 The goal is to understand customer purchasing patterns and build predictive models using three regression approaches:
 
 - 🤖 **Linear Regression**  
@@ -17,7 +13,7 @@ Each model is evaluated using **R², MAE, and RMSE**, and feature selection is a
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Structure
 
 ```
 Ecommerce-Predictive-Modeling/
